@@ -1,3 +1,3 @@
 # LSP4RE
 
-the code for a paper "Learning semantic patterns from scratch for entity relation extraction"
+The code for a paper "Automatically Learning Linguistic Structures for Entity Relation Extraction"
